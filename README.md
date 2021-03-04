@@ -7,3 +7,9 @@
 - 📫 How to reach me: Info in CV / akhnes3112@gmail.com (less official e-mail)
 - 😄 Pronouns: He/Him
 
+ 
+ 
+ 
+ 
+ 
+ **Genereal info about me**
