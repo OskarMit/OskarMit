@@ -12,4 +12,6 @@
  
  
  
- ### Genereal info about me:
+ ### General info about me:
+ 
+ Installing, upgrading, supporting, and fixing problems with Ms Windows
