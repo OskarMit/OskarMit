@@ -12,4 +12,4 @@
  
  
  
- **Genereal info about me**
+ **Genereal info about me**:
