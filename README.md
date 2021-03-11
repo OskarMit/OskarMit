@@ -14,9 +14,9 @@
  ### My skills:
  
  - Installing, upgrading and fixing problems with Ms Windows
- - Experience with Oracle VirtualBox virtualization
+ - Experience with Oracle VirtualBox/VMware virtualization
  - Basic administration and configuration of Windows Server 2008/2012
  - Basic experience with Active Direcotry
- - Basic knowledge of Computer Networks, LAN/WAN TCP/IP
+ - Basic knowledge of Computer Networks, LAN/WLAN/WAN/TCP/IP
  - Basic DHCP/DNS configuration
  - Basics of Python, C#
