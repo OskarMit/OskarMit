@@ -19,4 +19,4 @@
  - Basic experience with Active Direcotry
  - Basic knowledge of Computer Networks, LAN/WLAN/WAN/TCP/IP
  - Basic DHCP/DNS configuration
- - Basics of Python, C#
+ - Basics of Python, C#, Ruby
